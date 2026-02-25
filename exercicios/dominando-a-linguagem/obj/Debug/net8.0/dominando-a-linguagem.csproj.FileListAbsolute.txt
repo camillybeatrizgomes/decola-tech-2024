@@ -1,0 +1,14 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\bin\Debug\net8.0\dominando-a-linguagem.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\bin\Debug\net8.0\dominando-a-linguagem.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\bin\Debug\net8.0\dominando-a-linguagem.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\bin\Debug\net8.0\dominando-a-linguagem.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\bin\Debug\net8.0\dominando-a-linguagem.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\dominando-a-linguagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\dominando-a-linguagem.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\dominando-a-linguagem.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\dominando-a-linguagem.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\dominando-a-linguagem.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\refint\dominando-a-linguagem.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\dominando-a-linguagem.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\dominando-a-linguagem.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\dominando-a-linguagem\obj\Debug\net8.0\ref\dominando-a-linguagem.dll

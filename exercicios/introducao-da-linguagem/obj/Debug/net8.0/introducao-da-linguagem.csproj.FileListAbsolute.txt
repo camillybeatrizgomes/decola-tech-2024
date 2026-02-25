@@ -1,0 +1,14 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\bin\Debug\net8.0\introducao-da-linguagem.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\bin\Debug\net8.0\introducao-da-linguagem.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\bin\Debug\net8.0\introducao-da-linguagem.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\bin\Debug\net8.0\introducao-da-linguagem.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\bin\Debug\net8.0\introducao-da-linguagem.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\introducao-da-linguagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\introducao-da-linguagem.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\introducao-da-linguagem.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\introducao-da-linguagem.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\introducao-da-linguagem.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\refint\introducao-da-linguagem.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\introducao-da-linguagem.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\introducao-da-linguagem.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\introducao-da-linguagem\obj\Debug\net8.0\ref\introducao-da-linguagem.dll

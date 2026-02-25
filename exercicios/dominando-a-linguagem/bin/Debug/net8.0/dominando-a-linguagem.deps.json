@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dominando-a-linguagem/1.0.0": {
+        "runtime": {
+          "dominando-a-linguagem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dominando-a-linguagem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

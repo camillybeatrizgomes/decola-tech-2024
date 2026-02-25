@@ -1,0 +1,14 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\bin\Debug\net8.0\orientacao-a-objetos.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\bin\Debug\net8.0\orientacao-a-objetos.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\bin\Debug\net8.0\orientacao-a-objetos.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\bin\Debug\net8.0\orientacao-a-objetos.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\bin\Debug\net8.0\orientacao-a-objetos.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\orientacao-a-objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\orientacao-a-objetos.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\orientacao-a-objetos.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\orientacao-a-objetos.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\orientacao-a-objetos.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\refint\orientacao-a-objetos.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\orientacao-a-objetos.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\orientacao-a-objetos.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\orientacao-a-objetos\obj\Debug\net8.0\ref\orientacao-a-objetos.dll
